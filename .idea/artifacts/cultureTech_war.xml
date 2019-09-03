@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cultureTech:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cultureTech.war">
+      <element id="artifact" artifact-name="cultureTech:war exploded" />
+    </root>
+  </artifact>
+</component>
